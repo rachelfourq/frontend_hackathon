@@ -1,0 +1,29 @@
+h1 {
+	font-family: 'Wire One', sans-serif; 
+	margin-top: 10%;
+	font-size: 40px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+h5{
+	font-family: 'Wire One', sans-serif;
+	text-align: center;
+	font-size: 22px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+body {
+	font-family: 'Wire One', sans-serif;
+}
+
+.honeycombs {
+	padding-left: 5%;
+}
+
+#comba {
+	border: 1px solid black;
+	margin-bottom: 15px;
+}
